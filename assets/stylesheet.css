@@ -1,0 +1,50 @@
+main{
+   position: relative;
+   margin: auto;
+   width: 53rem;
+   border: 5px solid #000;
+}
+.vl{
+    border-left: 6px solid#000;
+    height: 684px;
+    position: absolute;
+    top: 14rem;
+    left: 25rem;
+}
+nav{
+    background-color: black;
+    position: relative;
+    width: 53rem;
+}
+.rich, .front{
+    color: #fff;
+   
+}
+.rich{
+    position: absolute;
+    top: 2rem;
+    left: 10rem;
+}
+.front{
+    position: absolute;
+    top: 4rem;
+    left: 10rem;
+}
+section{
+    position: absolute;
+    top: 12.5rem;
+    left: 26rem;
+}
+small{
+    font-size: 17px;
+    font-weight: bold;
+}
+.high, .contact, .education, .certification, .references{
+    padding-left: 1rem;
+}
+h3{
+    text-decoration: underline;
+}
+.high{
+    font-size: 20px;
+}
